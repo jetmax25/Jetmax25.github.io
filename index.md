@@ -11,3 +11,6 @@
 [Pokemon Battle Compaion]()
 
 [Tilter]()
+
+
+[iOS Test](peeq.celeb://events/host?conferenceId=3&token=4)
