@@ -13,4 +13,4 @@
 [Tilter]()
 
 
-[iOS Test](peeq.celeb://events/host?conferenceId=3&token=4)
+[iOS Test](http://jetmax25.github.io/iosTest.html)
